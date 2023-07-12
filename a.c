@@ -3,7 +3,7 @@ int main(){
 
 int a = 10;
 int b = 20;
-   a += 5;  // asignmemnt operator
+   a = a+b;  // asignmemnt operator
   printf("%d",a);
   
 }
